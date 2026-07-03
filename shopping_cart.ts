@@ -39,9 +39,9 @@ class Cart {
         return total
     }
 
-    public sortItem() {
-        const 
-    }
+    // public sortItem() {
+    //     const 
+    // }
   
     }
 
